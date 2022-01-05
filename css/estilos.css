@@ -44,3 +44,9 @@ body {
     background: white;
     padding: 1em;
 }
+
+.footer-container {
+    font-size: large;
+    color: white;
+    margin-top: 20px;
+}
